@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Batch>
+  <Property Value="PID POSTKASSE_.XML" Type="2" Name="PROSCANBAR" />
+  <Document Name="DOC1">
+    <Property Value="PID:POSTKASSE" Type="2" Name="PROSCANBAR" />
+    <Property Value="2" Type="1" Name="PROSCAN_BARCODECOUNT" />
+    <Property Value="1" Type="2" Name="DocNoInBatch" />
+    <File Name="PID POSTKASSE_.PDF">
+      <Property Value="PID POSTKASSE_.PDF" Type="2" Name="FileName" />
+      <Property Value="PDF" Type="1" Name="FileType" />
+      <Property Value="1" Type="1" Name="Pages" />
+      <Property Value="1" Type="1" Name="Sheets" />
+    </File>
+  </Document>
+</Batch>
